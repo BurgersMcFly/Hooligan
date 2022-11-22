@@ -14,7 +14,7 @@ https://www.nexusmods.com/cyberpunk2077/mods/6294
 
 **HooliganVendingMachines**
 
-![](https://i.imgur.com/MnKl7Z9.gif)
+<img src="https://i.imgur.com/ajbDj9e.gif" width="87%" height="87%"/>
 
 With each hit you will get either 1 to 2 items of their inventory, 1 junk item, 1 to ~25 eddies, nothing or break them.
 Broken Vending Machines can no longer be used or vandalized until they are fixed.
